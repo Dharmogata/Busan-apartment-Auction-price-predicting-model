@@ -1,13 +1,15 @@
 
-# chanllenge
+# Tech chanllenge
 # Supervised Learning
 ## Project: Busan-apartment-Auction-price-predicting-model
 
 ### Overview
+ 
 
-Background
+#### 1.Background
 
  
+
 
 There are three main ways to buy a house in Korea.
 
@@ -66,9 +68,11 @@ participate in the competition and realize your dream of own house.
 
  
 
-Description
+
+#### Description
 
  
+
 
 Existing financial institutions have conducted a review based on FICO scores and collateral oriented. On the other side,
 
@@ -94,6 +98,8 @@ flow
 
 https://pds.joins.com/news/component/brandnews/201106/08/kumsol_813655_OEC3Kx.jpg
 
+
+## 한글
 
 1. Background
 
