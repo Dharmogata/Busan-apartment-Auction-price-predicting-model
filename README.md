@@ -1,5 +1,5 @@
 
-# Tech chanllenge
+# Tech chanllenge for BDI
 # 부산 지역 아파트 경매가 예측 모델링
 # Supervised Learning
 ## Project: Busan-apartment-Auction-price-predicting-model
