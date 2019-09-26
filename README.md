@@ -154,6 +154,8 @@ https://pds.joins.com/news/component/brandnews/201106/08/kumsol_813655_OEC3Kx.jp
 
 ### Install
 
+If using Linux or Mac, you can use [this conda environment file](lane_environment.yml). In the command line, use `conda env create -f lane_environment.yml` and then `source activate lane_environment` to use the environment.
+
 This project requires **Python 3.x** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
@@ -165,9 +167,8 @@ You will also need to have software installed to run and execute an [iPython Not
 
 I recommend users install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
-### Code
 
-Template code is provided in the `Predicting hammer price of apartment in Busan.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `auction_master_train.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for users to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+
 
 ### Run
 
